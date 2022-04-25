@@ -1,1 +1,1 @@
-# Data-Science-and-Supply-Chain-Analytics
+# Data Science and Supply Chain Analytics
